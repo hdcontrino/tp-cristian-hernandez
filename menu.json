@@ -1,0 +1,132 @@
+[
+    {
+        "name": "Oferta Educativa",
+        "url": "/oferta-educativa",
+        "active": true,
+        "order": 1,
+        "submenu": [
+            {
+                "name": "Preparatorias",
+                "url": "/oferta-educativa/preparatorias",
+                "active": true,
+                "order": 1
+            },
+            {
+                "name": "Carreras Técnicas",
+                "url": "/oferta-educativa/carreras-tecnicas",
+                "active": true,
+                "order": 2
+            },
+            {
+                "name": "Técnico Superior Universitario",
+                "url": "/oferta-educativa/tecnico-superior-universitario",
+                "active": true,
+                "order": 3
+            },
+            {
+                "name": "Ingenierías / Licenciaturas",
+                "url": "/oferta-educativa/ingenierias-licenciaturas",
+                "active": true,
+                "order": 4
+            },
+            {
+                "name": "Educación Contínua",
+                "url": "/oferta-educativa/educacion-continua",
+                "active": true,
+                "order": 5
+            },
+            {
+                "name": "Cursos de Especialización",
+                "url": "/oferta-educativa/cursos-de-especializacion",
+                "active": true,
+                "order": 6
+            },
+            {
+                "name": "Para Empresas",
+                "url": "/oferta-educativa/para-empresas",
+                "active": true,
+                "order": 7
+            },
+            {
+                "name": "Mastrías",
+                "url": "/oferta-educativa/maestrías",
+                "active": true,
+                "order": 8
+            }
+        ]
+    },
+    {
+        "name": "PTS Institucional",
+        "url": "/pts-institucional",
+        "active": true,
+        "order": 2,
+        "submenu": [
+            {
+                "name": "Preparatorias",
+                "url": "/oferta-educativa/preparatorias",
+                "active": true,
+                "order": 1
+            },
+            {
+                "name": "Carreras Técnicas",
+                "url": "/oferta-educativa/carreras-tecnicas",
+                "active": true,
+                "order": 2
+            },
+            {
+                "name": "Técnico Superior Universitario",
+                "url": "/oferta-educativa/tecnico-superior-universitario",
+                "active": true,
+                "order": 3
+            },
+            {
+                "name": "Ingenierías / Licenciaturas",
+                "url": "/oferta-educativa/ingenierias-licenciaturas",
+                "active": true,
+                "order": 4
+            },
+            {
+                "name": "Educación Contínua",
+                "url": "/oferta-educativa/educacion-continua",
+                "active": true,
+                "order": 5
+            },
+            {
+                "name": "Cursos de Especialización",
+                "url": "/oferta-educativa/cursos-de-especializacion",
+                "active": true,
+                "order": 6
+            },
+            {
+                "name": "Para Empresas",
+                "url": "/oferta-educativa/para-empresas",
+                "active": true,
+                "order": 7
+            },
+            {
+                "name": "Mastrías",
+                "url": "/oferta-educativa/maestrías",
+                "active": true,
+                "order": 8
+            }
+        ]
+    },
+    {
+        "name": "Área Alumnos",
+        "url": "/area-alumnos",
+        "active": true,
+        "order": 3
+    },
+    {
+        "name": "Área Exalumnos",
+        "url": "/area-exalumnos",
+        "active": true,
+        "order": 4
+    },
+    {
+        "name": "Accesos",
+        "url": "/accesos",
+        "active": true,
+        "order": 5
+    }
+]

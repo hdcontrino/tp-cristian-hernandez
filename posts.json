@@ -1,0 +1,44 @@
+[
+    {
+        "title": "Refrigeración y Aire Acondicionado",
+        "image": "/images/example.png",
+        "info": [
+            "Inicio: 1 de setiembre de 2024",
+            "Duración: 8 semanas",
+            "Presencial",
+            "Turnos: Nocturno y Sabatino"
+        ],
+        "buttons": [
+            {
+                "name": "CONOCE MÁS",
+                "url": "#"
+            },
+            {
+                "name": "CONTÁCTANOS",
+                "url": "#"
+            }
+        ],
+        "order": 1
+    },
+    {
+        "title": "Máquinas y Herramientas CNC",
+        "image": "/images/example.png",
+        "info": [
+            "Inicio: 1 de setiembre de 2024",
+            "Duración: 8 semanas",
+            "Presencial",
+            "Turnos: Nocturno y Sabatino"
+        ],
+        "buttons": [
+            {
+                "name": "CONOCE MÁS",
+                "url": "#"
+            },
+            {
+                "name": "INSCRÍBETE",
+                "url": "#"
+            }
+        ],
+        "order": 2
+    }
+]
